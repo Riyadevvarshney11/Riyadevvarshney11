@@ -9,6 +9,8 @@
 <a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/riyadevvarshney11/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/riyadevvarshney11/profile" height="30" width="40" /></a>
 </p>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=khushboogoel01&label=Profile%20views&color=129e00&style=plastic" alt="khushboogoel01" /> </p>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
 - **Passionate Frontend Developer**
 - I’m currently working on [Video Conferencing Web App](https://github.com/Riyadevvarshney11/Microsoft-teams-clone)
 - Enthusiastic Coder
